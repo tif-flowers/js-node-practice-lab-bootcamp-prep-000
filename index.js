@@ -1,7 +1,7 @@
 // write your code below!
 
 var name = "Tif"
-var height = "5'4"
+var height = "54"
 
 console.log("Name:")
 console.log(name)
